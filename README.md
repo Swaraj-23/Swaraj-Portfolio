@@ -11,6 +11,8 @@ A comprehensive React-based website that showcases my skills, education, project
 - **Skills Carousel:** Gain insights into my technical skills through a carousel displaying logos of various technologies and programming languages.
 
 - **Education Section:** Explore my academic journey, detailing achievements in Bachelor of Engineering, Higher Secondary Certificate (HSC), and Secondary School Certificate (SSC).
+
+- **Experience Section:** Highlight my professional journey, showcasing key roles and responsibilities in software development and team collaboration.
   
 - **Projects Showcase:** Discover a selection of web development projects, each presented with a description, image, and a link to the live project.
 

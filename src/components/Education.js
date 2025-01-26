@@ -38,7 +38,7 @@ function Education() {
                 </div>
 
                 <div>
-                  <h3 className="education-title">HSC</h3>
+                  <h3 className="education-title">HSC (Class XII)</h3>
                   <span className="education-subtitle">
                     Vivekanand College, Kolhapur
                   </span>
@@ -52,7 +52,7 @@ function Education() {
 
               <div className="education-data">
                 <div>
-                  <h3 className="education-title">SSC</h3>
+                  <h3 className="education-title">SSC (Class X)</h3>
                   <span className="education-subtitle">
                     Bal Bharati Public School,Ratnagiri
                   </span>

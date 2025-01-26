@@ -19,7 +19,7 @@ function Footer() {
             </a>
           </div>
 
-          <span className="footer-copy">&copy;  2024 Swaraj Pawar. All rights reserved.</span>
+          <span className="footer-copy">&copy;  2025 Swaraj Pawar. All rights reserved.</span>
           
           </div>
       </footer>
